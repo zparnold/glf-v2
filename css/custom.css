@@ -12,9 +12,6 @@
    z-index: 2;
    background-color: #fff;
  }
-.really-tall{
-  height: 2000px;
-}
 .parallax-window{
   min-height: 600px;
   background-color: rgba(0,0,0,0.2);
@@ -62,4 +59,13 @@ hr.fatter{
 #intro{
   margin-top: 100px;
   margin-bottom: 200px;
+}
+#about{
+  margin-bottom: 200px;
+}
+.thin{
+  font-weight: 300;
+}
+.italic{
+  font-style: italic;
 }
