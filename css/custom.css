@@ -1,0 +1,44 @@
+.bigger{
+  font-size: 26px;
+}
+ .serif-stack{
+   font-family: 'Noto Serif', serif;
+ }
+ .black{
+   color: #000;
+ }
+ .navbar{
+   margin-bottom: 0;
+   z-index: 2;
+   background-color: #fff;
+ }
+.really-tall{
+  height: 2000px;
+}
+.parallax-window{
+  min-height: 600px;
+  background-color: rgba(0,0,0,0.2);
+}
+
+.border-above-below{
+  border-top: 5px;
+  border-bottom: 5px;
+  border-left: 0;
+  border-right: 0;
+  border-color: #fff;
+  border-style: solid;
+}
+.white{
+  color: #fff;
+}
+.large-padding{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.large-margin{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+h1{
+  font-size: 50px;
+}
