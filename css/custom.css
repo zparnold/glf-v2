@@ -42,3 +42,24 @@
 h1{
   font-size: 50px;
 }
+.bump-up{
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+.accent{
+  font-size: 24px;
+}
+.bigger{
+  font-size: 16px;
+}
+hr.fatter{
+  border-top: 2px solid #ccc;
+}
+.row{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#intro{
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
