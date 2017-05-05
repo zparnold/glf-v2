@@ -69,3 +69,6 @@ hr.fatter{
 .italic{
   font-style: italic;
 }
+.black-background{
+  background-color: #000;
+}
